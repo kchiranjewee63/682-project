@@ -1,0 +1,8 @@
+./.idea/*
+./.ipynb_checkpoints/*
+./__pycache__/*
+./models/.ipynb_checkpoints/*
+./models/__pycache__/*
+./saved_models/*
+./utils/.ipynb_checkpoints/*
+./utils/__pycache__/*
